@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Primeiro_Mer" id="95AA91B3-8030-BA0B-ACFB-F61811A0549F" version="3.5">
+<createdBy>paloma.asantos17</createdBy>
+<createdTime>2022-10-19 22:22:51 UTC</createdTime>
+<ownerDesignName>Primeiro_Mer</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>95AA91B3-8030-BA0B-ACFB-F61811A0549F</designId>
+</OSDM_Design>
